@@ -1,0 +1,13 @@
+.cf:before, .cf:after {
+	content: " ";
+	display: table;
+}
+.cf:after {
+	clear: both;
+}
+
+.alinear_vertical {
+	position: relative;
+	top: 50%;
+	transform: tranlateY(-50%);
+}

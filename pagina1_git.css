@@ -1,0 +1,96 @@
+.contenedor{
+	width: 1200px;
+	height: 50px;
+}
+
+.bt_nav {
+	font-size: 18px;
+	font-family: Helvetica;
+	font-style: sans-serif;
+	padding: 10px 15px;
+	display: inline-block;
+	height: auto;
+	width: 50px;
+	margin-top: 85px;
+	margin-left: 20px;
+}
+
+.photo1,
+.photo2,
+.photo3,
+.photo4,
+.photo5,
+.photo6{
+	margin: 20px;
+	margin-left: 30px;
+	padding: 10px;
+	height: 320px;
+	width: 320px;
+}
+
+.logo{
+	margin-top: 50px;
+	height: auto;
+	width: 164px;
+	float:left; 
+
+}
+
+.btsnav{
+	width: 150px;
+	float: right;
+	margin-top: 85px;
+}
+
+footer{
+	width: 1200px;
+	height: 300px;
+	background-color: #151515;
+}
+
+.parrafo1,
+.parrafo2,
+.parrafo3,
+.link1,
+.link2,
+.link3,
+.link4,
+.link5,
+.link6,
+.link7,
+.link8{
+	font-size: 15px;
+	font-family: Helvetica;
+	font-style: sans-serif;
+	color: #E6E6E6;
+	padding: 10px;
+}
+
+.listNav1,
+.listNav2,
+.listNav3{
+	font-size: 18px;
+	font-family: Helvetica;
+	font-style: sans-serif;
+	display: inline-block;
+	margin-left: 15%;
+	padding-top: 50px;
+}
+
+.copy_footer{
+	font-family: Helvetica;
+	font-style: serif;
+	width: auto;
+	color: #E6E6E6;
+	padding: 30px;
+	margin: auto;
+	margin-left: 35%;
+}
+.listNav1,
+.listNav2,
+.listNav3{
+	color:#BDBDBD;
+	font-size: 18px;
+	font-family: Helvetica;
+	font-style: serif;
+}
